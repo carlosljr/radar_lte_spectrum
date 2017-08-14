@@ -2,7 +2,7 @@
 
 This project was born through my master's thesis to design and implement a Dynamic Spectrum Access scheme for LTE networks in 5GHz radar bands.
 
-The NS-3 simulator was used to implement the Radar's spectrum environment for LTE networks. Besides, it was implemented the Cooperative Approach DSA mechanism together with other DSAs proposed in literature.
+The NS-3 (Network Simulator-3) simulator was used to implement the Radar's spectrum environment for LTE networks. Besides, it was implemented the Cooperative Approach DSA mechanism together with other DSAs proposed in literature.
 
 It has the source code with the following modules for NS-3:
 
